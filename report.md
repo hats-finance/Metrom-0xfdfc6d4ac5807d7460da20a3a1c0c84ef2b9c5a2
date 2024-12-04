@@ -23,9 +23,9 @@ Design your incentives to AMMplify your liquidity. Efficient incentive structure
 
 - Type: A public audit competition hosted by Metrom
 - Duration: 2 weeks
-- Maximum Reward: $7,000,000,000,000,000
+- Maximum Reward: $7,000
 - Submissions: 65
-- Total Payout: $7,000,000,000,000,000 distributed among 9 participants.
+- Total Payout: $5,600 distributed among 9 participants.
 
 ## Scope of Audit
 
